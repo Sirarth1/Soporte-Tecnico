@@ -152,6 +152,11 @@ input:focus{
 {
     grid-column: 1/5;
 }
+
+.contact-form form h4
+{
+    grid-column: 1/5;
+}
 .contact-form form .colu2{
     grid-column: 1/3;
 }
